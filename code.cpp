@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+using long long = ll;
 int main(){
 
 
